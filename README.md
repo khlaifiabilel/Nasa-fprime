@@ -1,4 +1,4 @@
-# F´: A Flight-Proven, Multi-Platform, Open-Source Flight Software Framework
+# F´: A Flight-Proven, Multi-Platform (Nvidia AGX Xavier) , Open-Source Flight Software Framework
 
 [![Language grade: C++](https://img.shields.io/lgtm/grade/cpp/g/nasa/fprime.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/nasa/fprime/context:cpp)
 [![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/nasa/fprime.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/nasa/fprime/context:python)
